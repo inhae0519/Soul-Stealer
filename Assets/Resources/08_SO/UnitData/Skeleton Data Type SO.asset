@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89223dedb4a8f34680755635c0d94ba, type: 3}
+  m_Name: Skeleton Data Type SO
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 1944272026, guid: 16cfcc75e7655b74aac710773dfdbe3c, type: 3}
+  name: Skeleton
+  hp: 30
+  speed: 3
+  jumpPower: 5
+  atk: 6
+  atkDelay: 1.5
+  soulLevel: 0

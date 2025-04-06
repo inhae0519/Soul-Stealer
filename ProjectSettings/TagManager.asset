@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Hit_Interactable
+  - Item
+  - PlayerTrm
+  - PlayerCam
+  - Ground
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlayerHitBox
+  - Water
+  - UI
+  - BodySwapAble
+  - Ground
+  - Enemy
+  - Attack
+  - PlayerAttack
+  - Interactable
+  - Hit_Interactable
+  - SideDoor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 536530733
+    locked: 0
+  - name: Map
+    uniqueID: 2537894905
+    locked: 0
+  - name: Object
+    uniqueID: 1567200337
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item
+    uniqueID: 1083067037
+    locked: 0
+  - name: player
+    uniqueID: 3679326353
+    locked: 0
